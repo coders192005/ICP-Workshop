@@ -1,0 +1,6 @@
+ Frontend canister via browser
+    hello_frontend:
+      - http://127.0.0.1:4943/?canisterId=dfdal-2uaaa-aaaaa-qaama-cai
+      - http://dfdal-2uaaa-aaaaa-qaama-cai.localhost:4943/
+  Backend canister via Candid interface:
+    hello_backend: http://127.0.0.1:4943/?canisterId=dccg7-xmaaa-aaaaa-qaamq-cai&id=cinef-v4aaa-aaaaa-qaalq-cai
